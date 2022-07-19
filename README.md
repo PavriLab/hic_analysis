@@ -1,3 +1,4 @@
+*This repo contains code and descriptions on possible analyses of Hi-C data. For upstream processing please also check out our [hicer-nf](https://github.com/PavriLab/hicer-nf) pipeline which generates all the necessary data that was used in this analysis repo*
 # Possibilities for downstream analysis
 The jupyter notebooks in this section show some possible downstream analysis. Specifically, generic analyses and special ones like of high sequencing depth data in which we infer subcompartments from Hi-C data only as described in [Rao et al. 2014](https://www.cell.com/cell/fulltext/S0092-8674(14)01497-4).
 
